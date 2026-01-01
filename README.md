@@ -1,5 +1,6 @@
 # LiveKit-Agent (AURAOS)
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d76f086-be9d-4eca-9d4b-15eb22d47a4b" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/20e10303-62dd-4a72-89af-3af026cd55ab" />
+
 
 
 A small voice assistant example built with LiveKit Agents and LiveKit plugins (OpenAI, Silero). This project runs a voice-enabled assistant that connects to a LiveKit room, uses a speech-to-text (STT) engine, an LLM for responses, and a text-to-speech (TTS) engine for spoken replies.
